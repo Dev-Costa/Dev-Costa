@@ -3,4 +3,4 @@
 <p>I'm on github because I want to meet people and contributte to open source projects.</p>
 <p>I have a knowledge in HTML, CSS, Javascript and Java, but my love is <strong>Python</strong>.</p>
 <p>Hope we can get along, see ya, bye.</p>
-<img src='Beach.png' width='5' height='5'>
+<img src='Beach.png' width='25' height='25'>
